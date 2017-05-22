@@ -9,7 +9,11 @@ Paper Analytics with tf-idf.ipynb: Using Tf-Idf to find similarity in research p
 Apply word2vec to papers.ipynb : Word2Vec implementation.  
 
 Data Explanation  
-Each row in .csv represent on research paper. And each contains..  
+
+Our data has 784 papers and 5 columns.
+Each row in .csv represent on research paper. 
+
+And each row contains..  
 Name: Paper writer name  
 Content: content in papers extracted from pdf file  
 Directory: directory of paper pdf  
