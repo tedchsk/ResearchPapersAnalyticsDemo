@@ -14,7 +14,6 @@ Paper Analytics with tf-idf.ipynb: Using Tf-Idf to find similarity in research p
 Apply word2vec to papers.ipynb : Word2Vec implementation.  
 
 
-
 Data Explanation  
 
 Our data has 784 papers and 5 columns.
